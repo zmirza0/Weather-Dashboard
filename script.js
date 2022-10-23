@@ -1,0 +1,1 @@
+var openweatherapi = "b73abcdab35f8e09f88e7ec868ec6776";
